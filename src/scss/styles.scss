@@ -1,0 +1,8 @@
+@use 'reboot';
+@use 'pageLayout';
+@use 'appbar';
+@use 'sidebar';
+@use 'productDisplayArea';
+
+// Anything that does not have an underscore will not be built into a css file\
+// Anything that has an underscore is a partial and needs to be imported
