@@ -1,4 +1,4 @@
-15516
+15521
 87C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\internals\is-regexp.js132891839845380977 0
 129C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\GetSocketRequest.d.ts132891839838985166 0
 56C:\Users\HQi88\OneDrive\Desktop\fresh start\package.json132891863843467994 0
@@ -37,7 +37,11 @@
 104C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\compat\storage\dist\storage\index.d.ts132891839851416453 0
 103C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\cli\node_modules\type-check\LICENSE132891839832429217 0
 78C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@types\node\README.md132891839825102566 0
-48C:\Users\HQi88\OneDrive\Desktop\fresh start\dist132891876014584185 1
+48C:\Users\HQi88\OneDrive\Desktop\fresh start\dist132891886212116940 1
+64C:\Users\HQi88\OneDrive\Desktop\fresh start\src\editProduct.html132891886492206343 0
+88C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\caniuse-lite\data\regions\RE.js132891839843178972 0
+73C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\terser\README.md132891839834150779 0
+88C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\css-select\lib\general.d.ts.map132891839829666706 0
 117C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\compat\remote-config\dist\firestore\lite\index.d.ts132891839850765863 0
 71C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\yaml\README.md132891839833750414 0
 121C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\storage\dist\node-esm\src\implementation\location.d.ts132891839835732212 0
@@ -83,13 +87,32 @@
 66C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\callsites132891839826383745 1
 78C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\domutils\lib\feeds.js132891839825162619 0
 85C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\features\set\find.js132891839843038847 0
-47C:\Users\HQi88\OneDrive\Desktop\fresh start\src132891866414932731 1
+47C:\Users\HQi88\OneDrive\Desktop\fresh start\src132891886468735034 1
 93C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@swc\helpers\lib\_to_property_key.js132891839834020656 0
 92C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\database\dist\messaging\sw132891839851736741 1
 52C:\Users\HQi88\OneDrive\Desktop\fresh start\src\scss132891865015892428 1
 72C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\yargs\index.mjs132891839833910558 0
 99C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\messaging\sw\dist\auth\index.d.ts132891839853278147 0
+120C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\esm5\test\helpers\redirect_persistence.d.ts132891839857772226 0
+70C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\color-convert132891839827284541 1
+91C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@protobufjs\codegen\tests\index.js132891839826934228 0
+122C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\firestore\dist\lite\firestore\src\core\sync_engine.d.ts132891839855269950 0
+82C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\path-is-absolute\index.js132891839824982453 0
+133C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\GetServersResponse.js.map132891839836663065 0
+82C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\caniuse-lite\package.json132891839845210824 0
+71C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\y18n\README.md132891839827774990 0
+95C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\compat\functions\dist\storage132891839849064315 1
+93C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\app-check\dist\auth\cordova132891839844139849 1
+83C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\selenium-webdriver\testing132891839831258155 1
+89C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\es\string\starts-with.js132891839838044309 0
+98C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\modules\es.array.last-index-of.js132891839846542026 0
+102C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\caniuse-lite\data\features\background-sync.js132891839833800463 0
+97C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\cli\node_modules\glob\LICENSE132891839830787726 0
+105C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\abortcontroller-polyfill\dist\abortcontroller.js132891839826804109 0
+97C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\compat\performance\package.json132891839837533851 0
+63C:\Users\HQi88\OneDrive\Desktop\fresh start\src\addProduct.html132891886211075992 0
 109C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\firestore\lite\dist\auth\cordova\index.d.ts132891839852177145 0
+64C:\Users\HQi88\OneDrive\Desktop\fresh start\dist\addProduct.html132891886212086910 0
 137C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\esm2017\src\platform_cordova\popup_redirect\events.test.d.ts132891839845110729 0
 114C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\src\api\authentication\recaptcha.d.ts132891839857251755 0
 118C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\package-manager\test\fixtures\has-a-not-yet-installed132891839831968796 1
@@ -126,7 +149,7 @@
 112C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\firestore-compat\dist\test\database.test.d.ts132891839832008846 0
 89C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\postcss-merge-longhand\README.md132891839830927854 0
 71C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\logger132891839826734045 1
-58C:\Users\HQi88\OneDrive\Desktop\fresh start\src\index.html132891867077854592 0
+58C:\Users\HQi88\OneDrive\Desktop\fresh start\src\index.html132891886130903136 0
 79C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\pako\lib\zlib\trees.js132891839831378263 0
 76C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\ws\lib\websocket.js132891839829326396 0
 112C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h132891839835892356 0
@@ -289,6 +312,10 @@
 78C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\features\json132891839841647586 1
 76C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\yaml\browser\map.js132891839828705838 0
 90C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\css-tree\lib\syntax\node\Value.js132891839836332757 0
+115C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\firestore\dist\firestore\src\model\mutation.d.ts132891839848193528 0
+75C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\.package-lock.json132891860036429565 0
+75C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\ansi-regex\license132891839824431959 0
+62C:\Users\HQi88\OneDrive\Desktop\fresh start\src\css\styles.css132891865889785952 0
 118C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\node\src\platform_browser\util\popup.d.ts132891839855460123 0
 81C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\nth-check\lib\compile.js132891839825152613 0
 87C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\watcher\src\DirTree.hh132891839830087088 0
@@ -296,18 +323,6 @@
 79C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\css-declaration-sorter132891839827484730 1
 97C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\storage\dist\storage\index.d.ts132891839854889610 0
 69C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\once\LICENSE132891839825472901 0
-115C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\firestore\dist\firestore\src\model\mutation.d.ts132891839848193528 0
-75C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\.package-lock.json132891860036429565 0
-75C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\ansi-regex\license132891839824431959 0
-62C:\Users\HQi88\OneDrive\Desktop\fresh start\src\css\styles.css132891865889785952 0
-84C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\postcss-normalize-positions132891839826023397 1
-71C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\rimraf\LICENSE132891839824471989 0
-84C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\string_decoder\package.json132891839824461978 0
-82C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\src\service.js132891839837844131 0
-94C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\compat\database\package.json132891839837423751 0
-84C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\google\README.md132891839840816830 0
-95C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\caniuse-lite\data\features\minmaxwh.js132891839842138029 0
-67C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\css-select132891839830587543 1
 137C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\rn\src\platform_browser\recaptcha\recaptcha_loader.test.d.ts132891839856731281 0
 110C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\firestore\dist\packages\firestore\src\index132891839848924192 1
 66C:\Users\HQi88\OneDrive\Desktop\fresh start\src\css\styles.css.map132891865889785952 0
@@ -503,14 +518,6 @@
 101C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\firestore\dist\app-check\index.d.ts132891839851806807 0
 75C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\chrome-trace-event132891839827354613 1
 96C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts132891839831648509 0
-120C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\esm5\test\helpers\redirect_persistence.d.ts132891839857772226 0
-70C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\color-convert132891839827284541 1
-91C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@protobufjs\codegen\tests\index.js132891839826934228 0
-122C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\firestore\dist\lite\firestore\src\core\sync_engine.d.ts132891839855269950 0
-82C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\path-is-absolute\index.js132891839824982453 0
-133C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\GetServersResponse.js.map132891839836663065 0
-82C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\caniuse-lite\package.json132891839845210824 0
-71C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\y18n\README.md132891839827774990 0
 119C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\src\platform_browser\strategies\phone.d.ts132891839854098892 0
 129C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\api\field_path.d.ts132891839844430108 0
 63C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\colord132891839831978805 1
@@ -520,6 +527,14 @@
 131C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\firestore\dist\lite\packages\firestore\src\util\async_queue.d.ts132891839838674885 0
 92C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@grpc\grpc-js\build\src\call.js.map132891839835962419 0
 103C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\websocket-driver\lib\websocket\driver\proxy.js132891839828725854 0
+84C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\postcss-normalize-positions132891839826023397 1
+71C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\rimraf\LICENSE132891839824471989 0
+84C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\string_decoder\package.json132891839824461978 0
+82C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\src\service.js132891839837844131 0
+94C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\compat\database\package.json132891839837423751 0
+84C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\google\README.md132891839840816830 0
+95C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\caniuse-lite\data\features\minmaxwh.js132891839842138029 0
+67C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\css-select132891839830587543 1
 106C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\node\src\core\util\delay.d.ts132891839842348221 0
 72C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\is-json\LICENSE132891839825993374 0
 65C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\css-tree132891839836542948 1
@@ -680,7 +695,7 @@
 128C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\firestore\dist\lite\firestore\src\local\local_store_impl.d.ts132891839847402810 0
 68C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\yaml\seq.js132891839831778626 0
 83C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\csso\lib\replace\String.js132891839832259063 0
-59C:\Users\HQi88\OneDrive\Desktop\fresh start\dist\index.html132891876014554157 0
+59C:\Users\HQi88\OneDrive\Desktop\fresh start\dist\index.html132891886135016870 0
 72C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\lmdb\caching.js132891839836092542 0
 77C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\ws\lib\validation.js132891839828906015 0
 100C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\cordova\internal.js.map132891839836122567 0
@@ -2739,9 +2754,6 @@
 71C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\terser\main.js132891839831838680 0
 76C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\terser\node_modules132891839808787751 1
 77C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\packager-css132891839826313662 1
-88C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\caniuse-lite\data\regions\RE.js132891839843178972 0
-73C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\terser\README.md132891839834150779 0
-88C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\css-select\lib\general.d.ts.map132891839829666706 0
 78C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\terser\tools\exit.cjs132891839826714028 0
 88C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\ordered-binary\rollup.config.js132891839826273625 0
 89C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\core\src\public\Asset.js132891839829806833 0
@@ -3356,10 +3368,6 @@
 91C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\htmlnano\docs\docusaurus.config.js132891839828125309 0
 82C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\selenium-webdriver\remote132891839831118030 1
 77C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\stable\array132891839851356402 1
-95C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\compat\functions\dist\storage132891839849064315 1
-93C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\app-check\dist\auth\cordova132891839844139849 1
-83C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\selenium-webdriver\testing132891839831258155 1
-89C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\es\string\starts-with.js132891839838044309 0
 96C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\util\dist\node-esm\index.d.ts132891839833780444 0
 92C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\selenium-webdriver\testing\index.js132891839831308196 0
 85C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\selenium-webdriver\lib\atoms132891839831808649 1
@@ -4031,9 +4039,6 @@
 94C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\firebase-app-check-compat.js132891839827264528 0
 120C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\esm2017\src\platform_cordova\popup_redirect132891839861775858 1
 105C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\cli\node_modules\inflight\inflight.js132891839836643037 0
-98C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\modules\es.array.last-index-of.js132891839846542026 0
-102C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\caniuse-lite\data\features\background-sync.js132891839833800463 0
-97C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\cli\node_modules\glob\LICENSE132891839830787726 0
 102C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\firestore\dist\compat\app\index.d.ts132891839851896888 0
 102C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\cli\node_modules\glob\package.json132891839838784986 0
 83C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\es\symbol\index.js132891839838604824 0
@@ -4287,8 +4292,6 @@
 106C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\firestore\dist\lite\firestore\src\model132891839856511078 1
 95C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@grpc\grpc-js\build\src\channel.js.map132891839836022475 0
 86C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\postcss\lib\no-work-result.js132891839828725854 0
-88C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@types\node\worker_threads.d.ts132891839834711285 0
-76C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\bin\pbjs132891839833630305 0
 89C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\esm2017\test132891839842278156 1
 107C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\rn\src\core\util\location.d.ts132891839851266315 0
 76C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\component132891839828485631 1
@@ -4297,6 +4300,8 @@
 117C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@grpc\grpc-js\src\generated\grpc\channelz\v1\ChannelTrace.ts132891839838194473 0
 94C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\utils\test\DefaultMap.test.js132891839828845962 0
 70C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\minimist\test132891839829386454 1
+88C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@types\node\worker_threads.d.ts132891839834711285 0
+76C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\bin\pbjs132891839833630305 0
 89C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\postcss-minify-selectors\src\lib132891839825182636 1
 139C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@grpc\grpc-js\build\src\generated\grpc\channelz\v1\GetServerSocketsResponse.js.map132891839836633029 0
 76C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\protobufjs\bin\pbts132891839833760426 0
@@ -5213,6 +5218,7 @@
 102C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\compat\storage\dist\index.esm.js.map132891839841947856 0
 96C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\messaging\dist\src\index.d.ts132891839834330943 0
 88C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\minimist\test\parse_modified.js132891839828285461 0
+71C:\Users\HQi88\OneDrive\Desktop\fresh start\dist\addProduct.919097d3.js132891886135387203 0
 110C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\database\dist\src\core\util\validation.d.ts132891839839345494 0
 74C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\globals\readme.md132891839826804109 0
 79C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\minimist\test\short.js132891839828996098 0
@@ -7018,8 +7024,6 @@
 93C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\caniuse-lite\data\features\brotli.js132891839834891447 0
 115C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\esm5\src\core\util\fetch_provider.d.ts132891839845551126 0
 89C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\compat\performance\dist132891839850445572 1
-105C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\abortcontroller-polyfill\dist\abortcontroller.js132891839826804109 0
-97C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\compat\performance\package.json132891839837533851 0
 93C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\transformer-posthtml\LICENSE132891839824602116 0
 85C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\features\set\from.js132891839843048859 0
 126C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\database-compat\dist\database-compat\test\helpers\util.d.ts132891839835461970 0
@@ -7713,8 +7717,6 @@
 85C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\auth\dist\app-check132891839845230837 1
 82C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\auth\dist\compat132891839855530194 1
 84C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\auth\dist\database132891839845431021 1
-121C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@grpc\grpc-js\src\generated\grpc\channelz\v1\GetServerRequest.ts132891839838835032 0
-84C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\runtime-browser-hmr132891839828075263 1
 85C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\firebase\auth\dist\functions132891839845481065 1
 101C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\app-check\dist\esm\test\setup.d.ts132891839834060695 0
 99C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\core-js\internals\iterator-create-proxy.js132891839845400994 0
@@ -11114,6 +11116,8 @@
 77C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\packager-svg132891839826213573 1
 95C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\functions-types\CHANGELOG.md132891839825112572 0
 81C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\resolver-default132891839826213573 1
+121C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@grpc\grpc-js\src\generated\grpc\channelz\v1\GetServerRequest.ts132891839838835032 0
+84C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\runtime-browser-hmr132891839828075263 1
 112C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\storage-compat\dist\esm\src\tasksnapshot.d.ts132891839831478354 0
 87C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@parcel\runtime-service-worker132891839826213573 1
 132C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\@firebase\auth\dist\cordova\src\platform_browser\strategies\popup.test.d.ts132891839855520180 0
@@ -15510,6 +15514,7 @@
 72C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\.bin\rimraf.cmd132891839862446465 0
 72C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\.bin\semver.cmd132891839862456476 0
 72C:\Users\HQi88\OneDrive\Desktop\fresh start\node_modules\.bin\semver.ps1132891839862446465 0
+75C:\Users\HQi88\OneDrive\Desktop\fresh start\dist\addProduct.919097d3.js.map132891886135397213 0
 69C:\Users\HQi88\OneDrive\Desktop\fresh start\dist\favicon.335f1e99.ico132891876013813487 0
 76C:\Users\HQi88\OneDrive\Desktop\fresh start\dist\fresh start.59712999.js.map132891841685701789 0
 66C:\Users\HQi88\OneDrive\Desktop\fresh start\dist\index.739bf03c.js132891867080997446 0
