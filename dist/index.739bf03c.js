@@ -17973,6 +17973,6 @@ function onEditProduct(e) {
     window.location = "editProduct.html";
 }
 
-},{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","firebase/database":"bpqHw","../libs/firebase/firebaseConfig":"db0eO"}]},["l4AUa","ebWYT"], "ebWYT", "parcelRequire98f9")
+},{"firebase/database":"bpqHw","../libs/firebase/firebaseConfig":"db0eO","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["l4AUa","ebWYT"], "ebWYT", "parcelRequire98f9")
 
 //# sourceMappingURL=index.739bf03c.js.map
