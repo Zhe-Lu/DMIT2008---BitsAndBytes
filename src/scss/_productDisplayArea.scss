@@ -1,5 +1,23 @@
-.product-display{
+.product-area{
     background-color: lightcyan;
     width: 100%;
     padding: 1rem;
+
+    .product-display{
+        display: flex;
+        flex-wrap: wrap;
+
+        .productCard {
+            margin: 1rem;
+            background-color: bisque;
+            min-width: 15rem;
+            text-align: center;
+
+            img {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+    }
 }

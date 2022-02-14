@@ -470,9 +470,30 @@ footer {
   text-decoration: none;
 }
 
-.product-display {
+.product-area {
   background-color: lightcyan;
   width: 100%;
+  padding: 1rem;
+}
+.product-area .product-display {
+  display: flex;
+  flex-wrap: wrap;
+}
+.product-area .product-display .productCard {
+  margin: 1rem;
+  background-color: bisque;
+  min-width: 15rem;
+  text-align: center;
+}
+.product-area .product-display .productCard img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.productCard {
+  border: solid black 2px;
+  width: 10rem;
   padding: 1rem;
 }
 
