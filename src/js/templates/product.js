@@ -1,5 +1,4 @@
 import { ref, get, set}  from 'firebase/database'
-import { ref as databaseRef, push, set, get}  from 'firebase/database'
 import { db, storage } from '../libs/firebase/firebaseConfig'
 
 

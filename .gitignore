@@ -4,6 +4,7 @@
 # Parcel Development Files
 /.parcel-cache
 /dist
+/.cache
 
 # OS Files
 .DS_Store
